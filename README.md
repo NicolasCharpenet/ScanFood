@@ -1,4 +1,4 @@
-#ScanFood
+ScanFood
 
 Projet d'application mobile dont l'objetctif de réaliser une application mobile sur la plate-forme Android à l’aide du langage Kotlin.
 
