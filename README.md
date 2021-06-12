@@ -1,10 +1,10 @@
 # ScanFood
 
-Projet d'application mobile dont l'objetctif de réaliser une application mobile sur la plate-forme Android à l’aide du langage Kotlin.
+Projet de matériel mobile dont l'objetctif était de réaliser une application mobile sur la plate-forme Android à l’aide du langage Kotlin.
 
 Cette application permet à son utilisateur de :
 
-Scanner un code barre d’un produite alimentaire et visualiser le descriptif de ce produit avec :
+Scanner un code barre d’un produit alimentaire et visualiser le descriptif de ce produit avec :
     Une photo
     La liste des ingédients
     Le nutri-score (allant de A à E)
